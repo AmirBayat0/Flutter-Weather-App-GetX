@@ -1,4 +1,4 @@
-# FLUTTER Weather App with GETX & API • Solid & Scalable Architecture[2024]🔥
+# FLUTTER Weather App with GETX & API • Solid & Scalable Architecture, Repository Pattern, Dependency Injection [2024]🔥
 ## Welcome to our latest Flutter tutorial: Building a Weather App with GETX and API Integration!
 
 Welcome to our latest Flutter tutorial where we dive into building a Weather App using the powerful combination of GETX and API integration. In this beginner-friendly tutorial, we'll walk you through step-by-step, demonstrating how to create a robust and scalable architecture for your Flutter projects.
