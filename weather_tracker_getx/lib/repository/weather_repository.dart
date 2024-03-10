@@ -7,7 +7,8 @@ import 'package:weather_tracker_getx/data/location_data.dart';
 import 'package:weather_tracker_getx/data/weather_data.dart';
 
 class WeatherRepository {
-  final apiKey = "879e6d95e1194fb79e82294e5465f7aa";
+  /// TODO: Your Api Key
+  final apiKey = "YOURAPIKEY";
 
   Future<LocationData?> getCurrentLocation() async {
     LocationData? locationData;

@@ -3,6 +3,20 @@ import 'package:get/get.dart';
 import 'package:weather_tracker_getx/module/home_binding.dart';
 import 'package:weather_tracker_getx/module/home_page.dart';
 
+//
+// Created by CodeWithFlexZ
+// Tutorials on my YouTube
+//
+//! Instagram
+//! @CodeWithFlexZ
+//
+//? GitHub
+//? AmirBayat0
+//
+//* YouTube
+//* Programming with FlexZ
+//
+
 void main() {
   runApp(const MyApp());
 }
