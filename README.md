@@ -24,6 +24,22 @@ Let's build something amazing together! 🚀🌟
 - Have questions or feedback? Feel free to open an issue or pull request.
 
 
+## Preview
+![github](https://github.com/AmirBayat0/Flutter-Weather-App-GetX/assets/91388754/c4056c34-327e-422c-ab62-561dd85062a3)
+
+
+## Shots
+ <div class="row">
+  <div class="column">
+   <img src="https://github.com/AmirBayat0/Flutter-Weather-App-GetX/assets/91388754/0803ae5e-a596-4c61-9c64-068e6ed62a28" height="400"/>
+   <img src="https://github.com/AmirBayat0/Flutter-Weather-App-GetX/assets/91388754/8eec1aa2-bee4-46e1-95e4-7fdf8697a305" height="400"/>
+   </div>
+</div>
+
+
+
+
+
 ## This link allows you to support me, and I appreciate your help:
 * [SUPPORT](https://www.buymeacoffee.com/AmirBayat)
 
