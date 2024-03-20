@@ -4,7 +4,8 @@
 Welcome to our latest Flutter tutorial where we dive into building a Weather App using the powerful combination of GETX and API integration. In this beginner-friendly tutorial, we'll walk you through step-by-step, demonstrating how to create a robust and scalable architecture for your Flutter projects.
 
 ### [Watch on YouTube](https://youtu.be/aPc9ZaRe2nI)
-![1](https://github.com/AmirBayat0/Weather-App/assets/91388754/e45cb139-b2df-4973-8e04-5cc502fa298d)
+![newScroll anime](https://github.com/AmirBayat0/Flutter-Weather-App-GetX/assets/91388754/cb23cf20-b1a0-4241-a4d2-e0432ac318c6)
+
 
 🚀 **In this tutorial, you'll learn:**
 
